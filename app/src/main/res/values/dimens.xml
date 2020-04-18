@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="toolbartitle_size">20dp</dimen>
+    <dimen name="navigationDrawer_size">220dp</dimen>
+    <dimen name="navheader_height">200dp</dimen>
+    <dimen name="menuItem_size">12sp</dimen>
+</resources>
