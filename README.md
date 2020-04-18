@@ -20,8 +20,9 @@ ExpoDroid uses the following tools:
    1. Hooking and stoping the package installer from installing the target app.
    2. Calculating the hash and using VirusTotal API to analyze it for malware
    3. Display the results in details to the user (in case of a malware)
- 
- <img src="https://github.com/Asbatel/ExpoDroid/blob/master/Screenshots/malwarescore.jpg" width="140" align="left">
- <img src="https://github.com/Asbatel/ExpoDroid/blob/master/Screenshots/malwarestats.jpg" width="140" align="middle">
- <img src="https://github.com/Asbatel/ExpoDroid/blob/master/Screenshots/malwarefamily.jpg" width="140" align="right">
 
+<p float="left">
+  <img src="https://github.com/Asbatel/ExpoDroid/blob/master/Screenshots/malwarescore.jpg" width="210" />
+  <img src="https://github.com/Asbatel/ExpoDroid/blob/master/Screenshots/malwarestats.jpg" width="210" /> 
+  <img src="https://github.com/Asbatel/ExpoDroid/blob/master/Screenshots/malwarefamily.jpg" width="210" />
+</p>
