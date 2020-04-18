@@ -13,7 +13,7 @@ ExpoDroid uses the following tools:
 
    1. Download or clone the repo (git clone https://github.com/Asbatel/ExpoDroid.git)
    2. Install the Xposed Framework 
-   3. Sign up to VirusTotal Community to obtain the **API Key**.
+   3. Sign up to VirusTotal Community to obtain the **API Key**
   
 # ExpoDroid main tasks:
 
