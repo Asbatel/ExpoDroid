@@ -15,7 +15,7 @@ ExpoDroid uses the following tools:
    2. Install the Xposed Framework 
    3. Sign up to VirusTotal Community to obtain the **API Key**.
   
-# How the Scanner works?
+# ExpoDroid tasks:
 
    1. Hooking and stoping the package installer from installing the target app.
    2. Calculating the hash and using VirusTotal API to analyze it for malware
