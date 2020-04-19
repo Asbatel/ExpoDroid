@@ -5,7 +5,7 @@ Hook-based Android Malware Scanner based on Xposed framework <img src="https://g
 
 ExpoDroid uses the following tools:
 
-   - **Xposed framework**: it provides the ability to change some operating system related elements as well as applications that we want to test without counting on the source code. Precisely, it permits the hooking of methods and the addition of any desired changes. (https://www.xda-developers.com/xposed-framework-hub/)
+   - **Xposed framework**: it permits the hooking of methods and the addition of any desired changes. (https://www.xda-developers.com/xposed-framework-hub/)
    
    - **VirusTotal API**: it lets you upload and scan apks for malware. (https://developers.virustotal.com/reference)
 
