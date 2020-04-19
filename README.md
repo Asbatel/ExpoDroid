@@ -15,9 +15,9 @@ ExpoDroid uses the following tools:
    2. Install the Xposed Framework 
    3. Sign up to VirusTotal Community to obtain the **API Key**
   
-# ExpoDroid main tasks:
+# ExpoDroid Main Tasks:
 
-   1. Hooking and stoping the package installer from installing the target app
+   1. Hooking and stopping the package installer from installing the target app
    2. Calculating the hash and using VirusTotal API to analyze it for malware
    3. Displaying the results in details to the user (in case of a malware)
 
